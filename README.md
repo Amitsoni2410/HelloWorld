@@ -1,2 +1,2 @@
 # HelloWorld
-Just initializing
+Just initializing the demo
